@@ -37,3 +37,7 @@ Security professionals are held to higher ethical standards, especially when sha
 - National Institute of Standards and Technology. (2022). **NIST Retires SHA-1 Cryptographic Algorithm**. [NIST News](https://www.nist.gov/news-events/news/2022/12/nist-retires-sha-1-cryptographic-algorithm)
 - NIST Computer Security Resource Center (CSRC). (n.d.). **Hash Functions**. [NIST CSRC](https://csrc.nist.gov/Projects/hash-functions)
 - Joyce, C. (n.d.). **Universal City Studios, Inc. v. Reimerdes**. University of Houston Law Center. [UH Law Center](https://www.law.uh.edu/faculty/cjoyce/copyright/release10/universal.html)
+
+  ---
+  ### Disclaimer
+This project was conducted in a controlled environment. Unauthorized use of these techniques or tools outside such an environment may violate ethical guidelines and legal regulations.
