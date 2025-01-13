@@ -1,6 +1,6 @@
-# Homework 12: Exploring Moral and Legal Issues
+Exploring Moral and Legal Issues
 
-[Homework Document Link](https://github.com/StephVergil/Exploring-Moral-and-Legal-Issues/blob/main/Homework%2012%20Exploring%20Moral%20and%20Legal%20Issues.docx)
+[Document Link](https://github.com/StephVergil/Exploring-Moral-and-Legal-Issues/blob/main/Homework%2012%20Exploring%20Moral%20and%20Legal%20Issues.docx)
 
 ## Part 1: MD5 Vulnerabilities in Digital Signatures
 
